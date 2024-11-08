@@ -1,0 +1,53 @@
+/* #main{
+    background-color: grey;
+    height:100%;
+    width:100%;   
+} */
+ *{
+    position:relative;
+ }
+.upper{
+    background-color: beige;
+   height:550px;
+    width:500px;
+    top:50px;
+    left:500px;
+}
+.image img{
+    height:100px;
+    width: 100px;
+    left: 200px;
+    top:50px;
+}
+.text1{
+    left:170px;
+    top:50px;
+}
+.text1 p{
+    font-size: 20pt;
+}
+.text2 {
+    left:230px;
+    top:50px;
+}
+.text2 p{
+    color:black;
+}
+.text3 {
+    left:100px;
+    top:80px;
+}
+.text3 p{
+    font-size: 15pt;
+}
+.table{
+    left:180px;
+    top:90px;
+    font-size: 20pt;
+}
+.table tr{
+    width: 200px;
+    height: 30px;
+}
+
+
